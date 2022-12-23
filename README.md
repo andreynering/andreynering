@@ -1,4 +1,4 @@
-Hi, I'm Andrey, a Senior Software Engineer from Brazil. :flag-br:
+Hi, I'm Andrey, a Senior Software Engineer from Brazil. :brazil:
 
 Professionally, I have a decade of experience with Ruby on Rails and web
 development in general. Although I really like to work with back-end tools, I
