@@ -9,7 +9,7 @@ I have a passion for open source and have done small contributions to many
 projects throughout the years, in Ruby, Go, and JavaScript. Between the projects
 I created myself, two are worth mentioning:
 
-* Task ([Website](https://taskfile.dev/) | [GitHub](https://github.com/go-task/task) | 6.3k :star:):
+* Task ([Website](https://taskfile.dev/) | [GitHub](https://github.com/go-task/task) | 8k :star:):
   a general purporse task runner for developers.
 * testfixtures ([GitHub](https://github.com/go-testfixtures/testfixtures) | 900 :star:):
   a library to allow writting integration tests with a real SQL database in Go.
