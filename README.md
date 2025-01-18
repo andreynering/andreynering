@@ -13,10 +13,10 @@ small projects.
 
 I also created some Go projects, like:
 
-- [Task][task] ([since 2017](https://github.com/go-task/task/commit/39e60d6278648d0e02c2bca830ad63cacbf60538), [10k ⭐](https://star-history.com/#go-task/task)):
+- [Task][task] ([since 2017](https://github.com/go-task/task/commit/39e60d6278648d0e02c2bca830ad63cacbf60538), [12k ⭐](https://star-history.com/#go-task/task)):
   a simple automation tool that can be used to automate boring tasks related to
   development, testing, deployment and more. Written in [Go][go].
-- [testfixtures][testfixtures] ([since 2016](https://github.com/go-testfixtures/testfixtures/commit/cd0d0838e5f07eda645a05ee1824e29763fdf434), [1k ⭐](https://star-history.com/#go-testfixtures/testfixtures)):
+- [testfixtures][testfixtures] ([since 2016](https://github.com/go-testfixtures/testfixtures/commit/cd0d0838e5f07eda645a05ee1824e29763fdf434), [1.1k ⭐](https://star-history.com/#go-testfixtures/testfixtures)):
   a Go package that allows one to write automated tests that connects to a real
   relational (SQL) database. Useful for writting integration tests.
 
