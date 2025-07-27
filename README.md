@@ -1,30 +1,20 @@
 Hi, I'm Andrey, a Senior Software Engineer from Joinville, Santa Catarina,
 Brazil. 🇧🇷
 
-Professionally, I have a decade of experience with [Ruby on Rails][rails],
-[Go][go], and web development in general.
-Although I really like to work with back-end tools, I also have experience with
-JavaScript, in particular with React.
+I'm a passionate for Open Source and a generalist.
+I like to learn and work with many different technologies, tools, languages and
+databases.
 
-As an open source lover, I did some small
-[contributions to Ruby on Rails][railscontributions] in the past
-(in special improvements to the [Rails Guides][railsguides]) and to other
-small projects.
+I'm currently working at [Charm][charm] hacking all kind of developer tools,
+with a strong focus on TUIs and CLIs, mostly using [Go][go].
 
-I also created some Go projects, like:
+I'm also the creator of [Task][task] and [testfixtures][testfixtures], and a
+fan of [Ruby on Rails][rails] for back-end web dev.
 
-- [Task][task] ([since 2017](https://github.com/go-task/task/commit/39e60d6278648d0e02c2bca830ad63cacbf60538), [12k ⭐](https://star-history.com/#go-task/task)):
-  a simple automation tool that can be used to automate boring tasks related to
-  development, testing, deployment and more. Written in [Go][go].
-- [testfixtures][testfixtures] ([since 2016](https://github.com/go-testfixtures/testfixtures/commit/cd0d0838e5f07eda645a05ee1824e29763fdf434), [1.1k ⭐](https://star-history.com/#go-testfixtures/testfixtures)):
-  a Go package that allows one to write automated tests that connects to a real
-  relational (SQL) database. Useful for writting integration tests.
+For more information, check out my website: https://andrey.nering.dev/
 
-[rails]: https://rubyonrails.org/
+[charm]: https://charm.sh/
 [go]: https://go.dev/
-[react]: https://react.dev/
-[railscontributions]: https://contributors.rubyonrails.org/contributors/andrey-nering/commits
-[railsguides]: https://guides.rubyonrails.org/
+[rails]: https://rubyonrails.org/
 [task]: https://github.com/go-task/task
 [testfixtures]: https://github.com/go-testfixtures/testfixtures
-[jobscore]: https://www.jobscore.com/
