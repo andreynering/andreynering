@@ -18,3 +18,5 @@ For more information, check out my website: https://andrey.nering.dev/
 [rails]: https://rubyonrails.org/
 [task]: https://github.com/go-task/task
 [testfixtures]: https://github.com/go-testfixtures/testfixtures
+
+<img src="https://u.nering.dev/p/M40aHplzY" />
