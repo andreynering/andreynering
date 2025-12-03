@@ -13,6 +13,18 @@ fan of [Ruby on Rails][rails] for back-end web dev.
 
 For more information, check out my website: https://andrey.nering.dev/
 
+---
+
+My configuration repos:
+
+* [dotfiles](https://github.com/andreynering/dotfiles)
+* [ghostty](https://github.com/andreynering/ghostty)
+* [helix](https://github.com/andreynering/helix)
+* [home-manager](https://github.com/andreynering/home-manager)
+* [karabiner](https://github.com/andreynering/karabiner)
+* [rio](https://github.com/andreynering/rio)
+* [zed](https://github.com/andreynering/zed)
+
 [charm]: https://charm.sh/
 [go]: https://go.dev/
 [rails]: https://rubyonrails.org/
