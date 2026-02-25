@@ -1,5 +1,4 @@
-Hi, I'm Andrey, a Senior Software Engineer from Joinville, Santa Catarina,
-Brazil. 🇧🇷
+Hi, I'm Andrey, a Senior Software Engineer from Brazil. 🇧🇷
 
 I'm a passionate for Open Source and a generalist.
 I like to learn and work with many different technologies, tools, languages and
