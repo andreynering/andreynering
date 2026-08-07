@@ -14,7 +14,7 @@ For more information, check out my website: https://andrey.nering.dev/
 
 ---
 
-My configuration repos: [dotfiles](https://github.com/andreynering/dotfiles) &bullet; [ghostty](https://github.com/andreynering/ghostty) &bullet; [helix](https://github.com/andreynering/helix) &bullet; [home-manager](https://github.com/andreynering/home-manager) &bullet; [karabiner](https://github.com/andreynering/karabiner) &bullet; [mise](https://github.com/andreynering/mise) &bullet; [rio](https://github.com/andreynering/rio) &bullet; [zed](https://github.com/andreynering/zed)
+My configuration repos: [dotfiles](https://github.com/andreynering/dotfiles) &bullet; [drift](https://github.com/andreynering/drift) &bullet; [ghostty](https://github.com/andreynering/ghostty) &bullet; [helix](https://github.com/andreynering/helix) &bullet; [home-manager](https://github.com/andreynering/home-manager) &bullet; [karabiner](https://github.com/andreynering/karabiner) &bullet; [mise](https://github.com/andreynering/mise) &bullet; [superfile](https://github.com/andreynering/superfile) &bullet; [rio](https://github.com/andreynering/rio) &bullet; [zed](https://github.com/andreynering/zed)
 
 [charm]: https://charm.sh/
 [go]: https://go.dev/
